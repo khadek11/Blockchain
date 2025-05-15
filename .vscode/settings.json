@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "vector": "cpp",
+        "ctime": "cpp",
+        "memory": "cpp",
+        "thread": "cpp",
+        "queue": "cpp",
+        "fstream": "cpp",
+        "string": "cpp",
+        "sstream": "cpp",
+        "algorithm": "cpp",
+        "unordered_map": "cpp",
+        "random": "cpp",
+        "condition_variable": "cpp",
+        "functional": "cpp",
+        "iomanip": "cpp",
+        "cstdint": "cpp",
+        "mutex": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
